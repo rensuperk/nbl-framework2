@@ -1,0 +1,1 @@
+tenantIdFilter=cn.bidlink.nbl.framework.dubbo.filter.TenantIdFilter
